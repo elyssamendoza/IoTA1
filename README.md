@@ -1,1 +1,1 @@
-IoTA1
+This IOT project was created to write a application using Raspberry Pi and Sense Hat in Python language . The program uses a data logger to record the humidity over a period of time.For this assignment we created a sqlite database to log humidity and temperature by setting up a cron job to pull data from the sense hat every 5 min time intervals and representing using a web interface and a graph.
